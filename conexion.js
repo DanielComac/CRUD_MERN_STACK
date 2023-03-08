@@ -1,6 +1,6 @@
 //Archivo para realizar la conexion
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://127.0.0.1:27017/crudmernstack');
+mongoose.connect('mongodb+srv://danielcomac:pqowie01@cluster0.ze4ru3x.mongodb.net/crud_mern_stack');
 
 //Creamos constante para almacenar la conexion
 const objetobd = mongoose.connection
