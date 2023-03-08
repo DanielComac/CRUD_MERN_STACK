@@ -19,7 +19,7 @@ function App() {
                   <a className="nav-link active" aria-current="page" href="/">Inicio</a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="agregarusuario">Agregar Paciente</a>
+                  <a className="nav-link" href="/agregarusuario">Agregar Paciente</a>
                 </li>
               </ul>
             </div>
